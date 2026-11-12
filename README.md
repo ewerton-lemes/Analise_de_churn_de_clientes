@@ -9,7 +9,7 @@ Identificar quais características dos clientes estão associadas ao churn em um
 Base de dados fictícia de clientes de um aplicativo de delivery, contendo uma amostra de 10 mil clientes.
 
 - Período de referência: 30/06/2019 a 30/10/2019.
-- Dados disponíveis no repositório: [Pasta dados](inserir-link).
+- Dados disponíveis no repositório: [dados](https://github.com/ewerton-lemes/Analise_de_churn_de_clientes/tree/main/dados).
 
 ## Ferramentas utilizadas
 
@@ -42,4 +42,6 @@ A análise detalhada, com tabelas, cálculos, insights e recomendações de neg�
 
 Artigo: [Leia a análise completa](https://medium.com/@ewerton_lemes/an%C3%A1lise-de-churn-de-clientes-no-aplicativo-de-delivery-tocomfome-431d672ed99f)
 
-A documentação do projeto, elaborada seguindo a metodologia CRISP-DM, também está disponível neste repositório.
+## Documentação
+
+A documentação do projeto, elaborada seguindo a metodologia CRISP-DM, também está disponível em [documentacao](https://github.com/ewerton-lemes/Analise_de_churn_de_clientes/tree/main/documentacao).
