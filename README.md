@@ -6,7 +6,7 @@ Identificar quais características dos clientes estão associadas ao churn em um
 
 ## Fonte de dados
 
-Base de dados fictícia de clientes de um aplicativo de delivery, contendo uma amostra de 10 mil clientes.
+Base de dados fictícia de clientes de um aplicativo de delivery chamado ToComFome, contendo uma amostra de 10 mil clientes.
 
 - Período de referência: 30/06/2019 a 30/10/2019.
 - Dados disponíveis no repositório: [dados](https://github.com/ewerton-lemes/Analise_de_churn_de_clientes/tree/main/dados).
